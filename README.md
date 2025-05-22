@@ -53,7 +53,7 @@
 
 ### 🔜 Next Project
 
- - Custom Countdown | *[Project [9]/20]* → **Coming Soon!**
+ - Custom Countdown | *[Project [9]/20]* → [View Repository](https://dalascript.github.io/music-player/)
 
 ---
 
