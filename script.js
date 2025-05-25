@@ -89,7 +89,7 @@ function nextSong() {
 
 // Update Progress Bar & Time
 function updateProgressBar(e) {
-    if(isPlaying || check) {
+    if(isPlaying) {
         const { duration, currentTime } = e.srcElement;
         // Update progress Bar width
         const progressPercent = (currentTime / duration) * 100;
@@ -123,6 +123,7 @@ function setProgressBar(e) {
     const clickX = e.offsetX;
     const { duration } = music;
     music.currentTime = (clickX / width) * duration;
+    playSong();
 }
 
 // Event Listener
