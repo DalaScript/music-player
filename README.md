@@ -2,7 +2,7 @@
 
 **Project 8/20**
 
-🎵 **Music Player** is a stylish and responsive web audio player built using HTML, CSS, and JavaScript. It allows users to play, pause, skip, and rewind through a playlist with real-time progress tracking and dynamic song updates.
+🎵 Music Player is a stylish and responsive web audio player built using HTML, CSS, and JavaScript. It allows users to play, pause, skip, and rewind through a playlist with real-time progress tracking and dynamic song updates.
 
 ---
 
@@ -17,6 +17,7 @@
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,7 +28,7 @@
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 
 ### 🔗 Links
@@ -55,7 +56,7 @@
  - HTML5
  - CSS3 
  - Vanilla JavaScript
- - Audio API
+ - `<Audio>` API
 
 ### 🎓 What I Learned
 
@@ -81,6 +82,19 @@
 ### 🔜 Next Project
 
  - Custom Countdown | *[Project 9/20]* → [View Repository](https://github.com/DalaScript/custom-countdown)
+
+### 🗃️ Useful resources
+
+ - [Google Fonts](https://fonts.google.com/) – Free web fonts for styling text.
+ - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) – Icons used for UI controls.
+ - [W3Schools - Audio DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp) – Reference for `<audio>` methods/events.
+ - [W3Schools - This](https://www.w3schools.com/js/js_this.asp) – Explains how `this` works in JS.
+ - [MDN - Object Fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) – Resize media inside containers.
+ - [MDN - Ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) – Short `if-else` syntax.
+ - [MDN - Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring) – Extract values from objects/arrays.
+ - [MDN - Math Floor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) – Round numbers down.
+ - [MDN - Math Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators) – JavaScript math basics.
+ - [textContent vs innerText](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent) – Difference between text outputs.
 
 ---
 
